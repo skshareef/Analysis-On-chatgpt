@@ -11,15 +11,15 @@ This repository contains the code and assets for the ChatGPT Insights Dashboard,
 
 ## Features
 
-- **Time to Reach 1 Million Users:** Displays the duration it took for ChatGPT to accumulate 1 million users.
-- ![Dashboard Screenshot](images/ttakentoreach1m.png)
+#Time to Reach 1 Million Users:** Displays the duration it took for ChatGPT to accumulate 1 million users.
+ ![Dashboard Screenshot](images/ttakentoreach1m.png)
 - **Percentage of Users by Country:** Provides insights into the geographical distribution of ChatGPT users.
-- ![Dashboard Screenshot](images/percent.png)
+ ![Dashboard Screenshot](images/percent.png)
 - **Total Number of Visitors:** Shows the overall count of visitors to the ChatGPT Insights Dashboard.
-- ![Dashboard Screenshot](images/tnov.png)
+ ![Dashboard Screenshot](images/tnov.png)
 - **Traffic Source Analysis:** Reveals how users are discovering the ChatGPT Insights Dashboard.
-- ![Dashboard Screenshot](images/tsoc.png)
-- **Awarness On ChatGPT
-- ![Dashboard Screenshot](images/loca.png)
+ ![Dashboard Screenshot](images/tsoc.png)
+- ** Awarness On ChatGPT
+ ![Dashboard Screenshot](images/loca.png)
 
 
