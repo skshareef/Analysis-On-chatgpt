@@ -13,6 +13,7 @@ This repository contains the code and assets for the ChatGPT Insights Dashboard,
 - **User Feedback and Warnings:** Highlights user feedback, concerns, and any issues reported related to ChatGPT.
 
 ## Screenshots
+# Demo ttiel
 
 ![Dashboard Screenshot](images/chatgpt_dashboard.png)
 
