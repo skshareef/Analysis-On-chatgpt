@@ -14,6 +14,6 @@ This repository contains the code and assets for the ChatGPT Insights Dashboard,
 
 ## Screenshots
 
-![Dashboard Screenshot](/path/to/dashboard/screenshot.png)
+![Dashboard Screenshot](images/chatgpt_dashboard.png)
 
 
