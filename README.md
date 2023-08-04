@@ -1,4 +1,6 @@
-# Power BI Project - Dashobard Analysis using DAX Commands
+# ChatGPT Analytics Dashboard: Unveiling Usage Trends, Awareness, and Traffic Sources
+
+![ChatGPT Logo](/images/download.png)
 
 ## Overview
 This Power BI project aims to analyze data related to ChatGPT usage, awareness, and traffic sources. The data is extracted using web scraping techniques, and the results are visualized through various graphs and KPIs on the dashboard.
@@ -42,25 +44,23 @@ Contributions to this project are welcome. If you identify any issues, have sugg
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-Special thanks to all the contributors and the open-source community for their valuable support and contributions to this project.
 
-## Contact
-For any inquiries or questions regarding this project, you can contact the project owner via [email address].
 
-![Overall Dashboard](./images/overall_dashboard.png)
+
+
+![Overall Dashboard](images/chatgpt_dashboard.png)
 
 ### Graph 1: Time Taken to Reach 1M Users for Different Apps
-![Graph 1](./images/graph1.png)
+![Graph 1](images/ttakentoreach1m.png)
 
 ### Graph 2: Level of ChatGPT Awareness
-![Graph 2](./images/graph2.png)
+![Graph 2](images/loca.png)
 
 ### Graph 3: Traffic Sources to ChatGPT
-![Graph 3](./images/graph3.png)
+![Graph 3](images/tsoc.png)
 
 ### Graph 4: Total Number of Visitors Over the Months
-![Graph 4](./images/graph4.png)
+![Graph 4](images/tnov.png)
 
 ### Graph 5: Counties with Highest ChatGPT Usage
-![Graph 5](./images/graph5.png)
+![Graph 5](images/percent.png)
